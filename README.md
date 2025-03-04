@@ -1,3 +1,11 @@
+WARNING : This branch is a fork of https://github.com/wantedly/psych-comments with several PR merged
+- https://github.com/wantedly/psych-comments/pull/3
+- https://github.com/wantedly/psych-comments/pull/6
+- https://github.com/wantedly/psych-comments/pull/7
+
+This fork intend is only to serve our need at Rubyvideo, we hope to have the PR merged upstream one day but in the mean time this is a way to unblock us. **We will not accept any PR on this fork.**
+
+
 # `Psych::Comments` -- brings YAML comment handling
 
 This gem allows you to manipulate YAML, preserving comment information.
