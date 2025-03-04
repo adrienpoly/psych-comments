@@ -4,8 +4,11 @@ on:
   push:
     branches:
       - master
+      - main
+      - rubyvideo
 
   pull_request:
+    branches: ["*"]
 
 jobs:
   build:
