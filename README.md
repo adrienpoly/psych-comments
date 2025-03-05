@@ -2,6 +2,7 @@ WARNING : This branch is a fork of https://github.com/wantedly/psych-comments wi
 - https://github.com/wantedly/psych-comments/pull/3
 - https://github.com/wantedly/psych-comments/pull/6
 - https://github.com/wantedly/psych-comments/pull/7
+- https://github.com/wantedly/psych-comments/pull/8
 
 This fork intend is only to serve our need at Rubyvideo, we hope to have the PR merged upstream one day but in the mean time this is a way to unblock us. **We will not accept any PR on this fork.**
 
